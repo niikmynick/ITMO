@@ -19,7 +19,7 @@
 ---
 ### Навигация
 1. [Практические занятия](general/general.md)
-2. [Отчеты](general/report.md)
+2. [Требования к отчетам](general/report.md)
 
 ### Программирование
 1. [Требования к лабораторным работам](programming/programming.md)
